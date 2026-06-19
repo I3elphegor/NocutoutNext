@@ -1,6 +1,6 @@
 # No cutout Next
 
-This is just test version, it should work, but it can break anytime.
+This is a just test version, it should work, but it can break anytime.
 
 This module allows you to remove the cut out/notch and with it that black bar on top on your phone's display.
 
