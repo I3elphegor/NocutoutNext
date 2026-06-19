@@ -1,6 +1,7 @@
-id=noneDisplayCutout
-name=None Display Cutout
-version=v1
-versionCode=1
-author=MlgmXyysd
-description=This module provide you a option for hide your devices display cutout(notch). QQ chat group 855219808.
+id=nocutoutnext
+name=No cutout Next
+version=v2.2.2
+versionCode=222
+author=MlgmXyysd, I3elphegor
+description=This module allows you to remove the cut out/notch and with it that black bar on top on your phone's display.
+updateJson=https://raw.githubusercontent.com/I3elphegor/NocutoutNext/master/update.json

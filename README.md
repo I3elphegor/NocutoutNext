@@ -1,5 +1,7 @@
 # No cutout Next
 
+This is just test version, it should work, but it can break anytime.
+
 This module allows you to remove the cut out/notch and with it that black bar on top on your phone's display.
 
 Supports Android 9-16 and Magisk, KernelSU and APatch. Android 8 and below will not work.
