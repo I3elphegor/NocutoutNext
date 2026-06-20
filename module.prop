@@ -3,5 +3,5 @@ name=No cutout Next
 version=v1.0.0
 versionCode=100
 author=MlgmXyysd, I3elphegor
-description=This module allows you to remove the cut out/notch and with it that black bar on top on your phone's display.
+description=This module removes the cutout/notch and with it that black bar on top on your phone's display.
 updateJson=https://raw.githubusercontent.com/I3elphegor/NocutoutNext/master/update.json
