@@ -1,12 +1,10 @@
 # No cutout Next
 
-This is just a test version, it should work, but it can break anytime.
-
 This module allows you to remove the cut out/notch and with it that black bar on top on your phone's display.
 
-Supports Android 9-16 and Magisk, KernelSU and APatch. Android 8 and below will not work.
+Supports rooted Android 9-16 with either Magisk, KernelSU (with metamodule) or APatch. Android 8 and below will not work.
 
-Tested only on OnePlus 7 Pro + Magisk and OnePlus 10 Pro + KernelSU.
+Tested only on OnePlus 7 Pro + Magisk and OnePlus 10 Pro + KernelSU. It was forked for personal use. Use at your own risk.
 
 ### Usage
 
