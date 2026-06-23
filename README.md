@@ -19,6 +19,6 @@ Tested only on OnePlus 7 Pro + Magisk and OnePlus 10 Pro + KernelSU.
 
  It was forked for personal use. USE AT YOUR OWN RISK.
 
-# Disclaimer
+## Disclaimer
 
 For educational purposes only. The developer does not condone illegal activites including violationg terms of service. Users are solely responsible for complying with applicable laws.
