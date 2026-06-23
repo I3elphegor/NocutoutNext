@@ -6,7 +6,7 @@ The only downside is that if your camera is in the upper-left corner, the clock 
 
 ## Requirements
 
-Enabled Developer Options
+Enabled Developer Options.
 Should support rooted Android (maybe 9) 10-16 with either Magisk, KernelSU (with metamodule) or APatch. Android 8 and below will not work.
 
 Tested only on OnePlus 7 Pro + Magisk and OnePlus 10 Pro + KernelSU.
