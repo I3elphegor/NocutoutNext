@@ -23,8 +23,8 @@ elif [ "$ROOT_SOLUTION" = "APatch" ]; then
     ui_print "- RRO overlay to remove cutout has been installed..."
     ui_print "- Notice: APatch may require an additional uMount plugin."
 else
-    ui_print "- Installing via native Magic Mount..."
-    ui_print "- Everything will run automatically."
+    ui_print "- Installed via native Magic Mount..."
+    ui_print "- Everything run automatically."
 fi
 ui_print "********************************************"
 
